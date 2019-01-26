@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e59c1d2-137e-4f37-a9b2-5e47fa987a1c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MobilePorted/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MobilePorted/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MobilePorted/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MobilePorted/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MobilePorted/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Choices.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Genre.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobilePorted.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobilePorted.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobilePorted.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Movie.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovieDB.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rating.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/MobilePorted.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/MobilePorted.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/MobilePorted.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/MobilePorted.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/MobilePorted.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/MobilePorted.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/MobilePorted.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/MobilePorted.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/MobilePorted.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/MobilePorted.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/MobilePorted.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="MobilePorted.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/MobilePorted.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="464">
+                  <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+                  <folding>
+                    <marker date="1548469106676" expanded="true" signature="6:48" ph="..." />
+                    <marker date="1548469106676" expanded="true" signature="72:1209" ph="{...}" />
+                    <marker date="1548469106676" expanded="true" signature="104:1207" ph="{...}" />
+                    <marker date="1548469106676" expanded="true" signature="150:1201" ph="{...}" />
+                    <marker date="1548469106676" expanded="true" signature="401:1158" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ConsoleUI.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ConsoleUI.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="459">
+                  <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+                  <folding>
+                    <marker date="1548469106748" expanded="false" signature="6:47" ph="..." />
+                    <marker date="1548469106748" expanded="true" signature="71:3619" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="100:3617" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="291:317" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="362:524" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="422:518" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="558:1297" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="833:1239" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="1346:1998" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="1587:1806" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="1662:1792" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="1846:1932" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="2030:2635" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="2237:2605" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="2665:3611" ph="{...}" />
+                    <marker date="1548469106748" expanded="true" signature="2958:3581" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Movie.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Movie.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="13" selection-start-column="13" selection-end-column="13" />
+                  <folding>
+                    <marker date="1548468345714" expanded="true" signature="37:1583" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="62:1581" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="221:328" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="362:398" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="441:482" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="518:556" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="603:648" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="682:719" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="763:806" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="863:1185" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="1236:1340" ph="{...}" />
+                    <marker date="1548468345714" expanded="true" signature="1384:1575" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MovieDB.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/MovieDB.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1207">
+                  <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MovieDB.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/MovieDB.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="952">
+                  <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+                  <folding>
+                    <marker date="1548469106802" expanded="true" signature="6:66" ph="..." />
+                    <marker date="1548469106802" expanded="true" signature="90:4072" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="117:4070" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="160:2943" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3052:3082" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3139:3377" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3233:3340" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3276:3330" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3432:3665" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3524:3629" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3566:3619" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3711:4064" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3776:3921" ph="{...}" />
+                    <marker date="1548469106802" expanded="true" signature="3921:4034" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Rating.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Rating.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+                  <folding>
+                    <marker date="1548469106863" expanded="true" signature="22:84" ph="{...}" />
+                    <marker date="1548469106863" expanded="true" signature="47:82" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Rating.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/Rating.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Genre.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Genre.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+                  <folding>
+                    <marker date="1548467027939" expanded="true" signature="22:150" ph="{...}" />
+                    <marker date="1548467027939" expanded="true" signature="46:148" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Choices.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Choices.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+                  <folding>
+                    <marker date="1548467027891" expanded="true" signature="22:108" ph="{...}" />
+                    <marker date="1548467027891" expanded="true" signature="48:106" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Choices.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/Choices.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Movie.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/Movie.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="571">
+                  <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>keyboard.nextLine</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Console.ReadLine</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Choices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Rating.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MovieDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Movie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MobilePorted.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Genre.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Choices.cs" />
+        <option value="$PROJECT_DIR$/Genre.cs" />
+        <option value="$PROJECT_DIR$/Main.cs" />
+        <option value="$PROJECT_DIR$/Movie.cs" />
+        <option value="$PROJECT_DIR$/Rating.cs" />
+        <option value="$PROJECT_DIR$/MovieDB.cs" />
+        <option value="$PROJECT_DIR$/ConsoleUI.cs" />
+        <option value="$PROJECT_DIR$/MobilePorted.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2112" />
+    <option name="y" value="-13" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MobilePorted (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MobilePorted (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MobilePorted" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Movie" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Movie" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="us" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Movie" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="us" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="mattgree" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Movie" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="us" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="mattgree" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="movie" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e59c1d2-137e-4f37-a9b2-5e47fa987a1c" name="Default" comment="" />
+      <created>1548465968150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548465968150</updated>
+      <workItem from="1548465969821" duration="3966000" />
+    </task>
+    <task id="LOCAL-00001" summary="ported all Java to C#">
+      <created>1548469746256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548469746256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3966000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1296" height="1040" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5008091" side_tool="true" weight="0.3503326" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32985386" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32985386" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.49919093" weight="0.3503326" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ported all Java to C#" />
+    <option name="LAST_COMMIT_MESSAGE" value="ported all Java to C#" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/ConsoleUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1548465973459" expanded="true" signature="37:77" ph="{...}" />
+            <marker date="1548465973459" expanded="true" signature="63:75" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/Genre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="83" lean-forward="true" selection-start-line="3" selection-start-column="83" selection-end-line="3" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/Choices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Genre.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1548467027939" expanded="true" signature="22:150" ph="{...}" />
+            <marker date="1548467027939" expanded="true" signature="46:148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/MovieDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Mobile-master/Movie/us/mattgree/movie/Rating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rating.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <marker date="1548469106863" expanded="true" signature="22:84" ph="{...}" />
+            <marker date="1548469106863" expanded="true" signature="47:82" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieDB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+          <folding>
+            <marker date="1548469106802" expanded="true" signature="6:66" ph="..." />
+            <marker date="1548469106802" expanded="true" signature="90:4072" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="117:4070" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="160:2943" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3052:3082" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3139:3377" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3233:3340" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3276:3330" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3432:3665" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3524:3629" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3566:3619" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3711:4064" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3776:3921" ph="{...}" />
+            <marker date="1548469106802" expanded="true" signature="3921:4034" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Choices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1548467027891" expanded="true" signature="22:108" ph="{...}" />
+            <marker date="1548467027891" expanded="true" signature="48:106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Movie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1548468345714" expanded="true" signature="37:1583" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="62:1581" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="221:328" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="362:398" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="441:482" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="518:556" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="603:648" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="682:719" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="763:806" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="863:1185" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="1236:1340" ph="{...}" />
+            <marker date="1548468345714" expanded="true" signature="1384:1575" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <marker date="1548469106748" expanded="false" signature="6:47" ph="..." />
+            <marker date="1548469106748" expanded="true" signature="71:3619" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="100:3617" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="291:317" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="362:524" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="422:518" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="558:1297" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="833:1239" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="1346:1998" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="1587:1806" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="1662:1792" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="1846:1932" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="2030:2635" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="2237:2605" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="2665:3611" ph="{...}" />
+            <marker date="1548469106748" expanded="true" signature="2958:3581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobilePorted.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <marker date="1548469106676" expanded="true" signature="6:48" ph="..." />
+            <marker date="1548469106676" expanded="true" signature="72:1209" ph="{...}" />
+            <marker date="1548469106676" expanded="true" signature="104:1207" ph="{...}" />
+            <marker date="1548469106676" expanded="true" signature="150:1201" ph="{...}" />
+            <marker date="1548469106676" expanded="true" signature="401:1158" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

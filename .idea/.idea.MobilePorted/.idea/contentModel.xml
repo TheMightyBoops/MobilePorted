@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\School\MobileAppDev\MobilePorted" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Choices.cs" t="Include" />
+      <e p="Class1.cs" t="Include" />
+      <e p="ConsoleUI.cs" t="Include" />
+      <e p="Genre.cs" t="Include" />
+      <e p="MobilePorted.cs" t="Include" />
+      <e p="MobilePorted.csproj" t="IncludeRecursive" />
+      <e p="MobilePorted.sln" t="IncludeFlat" />
+      <e p="Movie.cs" t="Include" />
+      <e p="MovieDB.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="MobilePorted.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Rating.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Lucas Nolting\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_MobilePorted.580458387.00" t="ExcludeRecursive" />
+  </component>
+</project>

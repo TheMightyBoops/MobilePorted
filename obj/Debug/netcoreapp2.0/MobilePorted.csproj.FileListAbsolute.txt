@@ -1,0 +1,8 @@
+C:\School\MobileAppDev\MobilePorted\bin\Debug\netcoreapp2.0\MobilePorted.deps.json
+C:\School\MobileAppDev\MobilePorted\bin\Debug\netcoreapp2.0\MobilePorted.dll
+C:\School\MobileAppDev\MobilePorted\bin\Debug\netcoreapp2.0\MobilePorted.pdb
+C:\School\MobileAppDev\MobilePorted\obj\Debug\netcoreapp2.0\MobilePorted.csproj.CoreCompileInputs.cache
+C:\School\MobileAppDev\MobilePorted\obj\Debug\netcoreapp2.0\MobilePorted.AssemblyInfoInputs.cache
+C:\School\MobileAppDev\MobilePorted\obj\Debug\netcoreapp2.0\MobilePorted.AssemblyInfo.cs
+C:\School\MobileAppDev\MobilePorted\obj\Debug\netcoreapp2.0\MobilePorted.dll
+C:\School\MobileAppDev\MobilePorted\obj\Debug\netcoreapp2.0\MobilePorted.pdb
